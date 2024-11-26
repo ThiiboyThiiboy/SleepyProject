@@ -1,0 +1,32 @@
+<libraries>
+  <library
+      name="C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\68002b3befed978baf9d26b32dd96f44\transformed\out\jars\classes.jar;C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\68002b3befed978baf9d26b32dd96f44\transformed\out\jars\libs\R.jar;C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\68002b3befed978baf9d26b32dd96f44\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\68002b3befed978baf9d26b32dd96f44\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:mobilenotifications.androidlib::release"
+      jars="C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\9c39ad2799e3a204bbd4dc7e05dc8198\transformed\out\jars\classes.jar;C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\9c39ad2799e3a204bbd4dc7e05dc8198\transformed\out\jars\libs\R.jar"
+      resolved="Gradle.unityLibrary:mobilenotifications.androidlib:unspecified"
+      folder="C:\Users\thiba\Sleepy\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\9c39ad2799e3a204bbd4dc7e05dc8198\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
