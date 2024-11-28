@@ -3,12 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class LockerMenuManager : MonoBehaviour
 {
     public GameObject hatGrid;
     public GameObject shirtGrid;
     public GameObject cameraGrid;
+
+    public void Update()
+    {
+        //currencyText.SetText(currencyValue.ToString() + " $");
+
+    }
 
     public void BackButton()
     {
