@@ -1,9 +1,9 @@
 {
     "m_SelectedDeviceId": "58f80be5",
     "m_SelectedProcess": {
-        "deviceId": "58f80be5",
-        "name": "com.DefaultCompany.Sleepy",
-        "processId": 21718,
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -12,7 +12,19 @@
             "deviceId": "58f80be5",
             "name": "com.DefaultCompany.Sleepy",
             "processId": 21718,
-            "exited": false
+            "exited": true
+        },
+        {
+            "deviceId": "58f80be5",
+            "name": "com.DefaultCompany.Sleepy",
+            "processId": 2074,
+            "exited": true
+        },
+        {
+            "deviceId": "58f80be5",
+            "name": "com.DefaultCompany.Sleepy",
+            "processId": 11565,
+            "exited": true
         }
     ],
     "m_Tags": {

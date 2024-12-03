@@ -6,6 +6,12 @@ TagManager:
   tags:
   - draggable
   - cube
+  - UFO
+  - spawnerRight
+  - spawnerLeft
+  - deader
+  - rightUFO
+  - Alien
   layers:
   - Default
   - TransparentFX
@@ -13,9 +19,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Spawners
+  - UFOs
+  - Aliens
   - 
   - 
   - 

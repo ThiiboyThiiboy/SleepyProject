@@ -4,7 +4,7 @@
             "outputFile": "com.DefaultCompany.Sleepy.launcher-mergeReleaseResources-3:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\thiba\\Sleepy\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v30\\values-v30.xml",
+                    "source": "C:\\Users\\thiba\\Documents\\GitHub\\SleepyProject\\Sleepy\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2,3,4,5,6",
                         "startColumns": "4,4,4,4,4",
