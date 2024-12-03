@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LockerScene.unity
     guid: 2babdcde4ac58ca45b90d48180a344b6
+  - enabled: 1
+    path: Assets/Scenes/ShopScene.unity
+    guid: 20c43c1a0347a9b498df2e52792b46fa
   m_configObjects: {}

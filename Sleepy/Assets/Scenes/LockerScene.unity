@@ -384,6 +384,7 @@ MonoBehaviour:
   hatGrid: {fileID: 156519036}
   shirtGrid: {fileID: 345968877}
   cameraGrid: {fileID: 429368783}
+  currencyText: {fileID: 309653808}
 --- !u!1 &104901253
 GameObject:
   m_ObjectHideFlags: 0

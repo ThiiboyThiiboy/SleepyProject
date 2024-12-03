@@ -8,7 +8,7 @@ using TMPro;
 public class MainMenuManager : MonoBehaviour
 {
     public GameObject dailyGrid;
-    public int currencyValue;
+    public static int currencyValue;
     public TMP_Text currencyText;
 
     public void Update()
@@ -35,6 +35,11 @@ public class MainMenuManager : MonoBehaviour
     public void DailyButton()
     {
         dailyGrid.gameObject.SetActive(true);
+    }
+
+    public void MONEY()
+    {
+        currencyValue ++;
     }
 
     public void CompleteButton()

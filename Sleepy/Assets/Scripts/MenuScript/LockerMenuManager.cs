@@ -10,10 +10,11 @@ public class LockerMenuManager : MonoBehaviour
     public GameObject hatGrid;
     public GameObject shirtGrid;
     public GameObject cameraGrid;
+    public TMP_Text currencyText;
 
     public void Update()
     {
-        //currencyText.SetText(currencyValue.ToString() + " $");
+        currencyText.SetText(MainMenuManager.currencyValue.ToString() + " $");
 
     }
 
