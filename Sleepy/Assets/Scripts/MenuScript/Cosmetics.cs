@@ -8,6 +8,7 @@ public class Cosmetics : ScriptableObject
     public GameObject mesh;
     public int price;
     public Sprite sprite;
+    public bool buyed;
 
 }
     

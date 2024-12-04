@@ -39,7 +39,7 @@ public class MainMenuManager : MonoBehaviour
 
     public void MONEY()
     {
-        currencyValue ++;
+        currencyValue += 10;
     }
 
     public void CompleteButton()

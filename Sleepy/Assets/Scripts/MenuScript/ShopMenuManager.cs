@@ -9,15 +9,12 @@ using TMPro;
 public class ShopMenuManager : MonoBehaviour
 {
     public TMP_Text currencyText;
+
+
     public void Update()
     {
         currencyText.SetText(MainMenuManager.currencyValue.ToString() + " $");
 
-    }
-
-    public void Buy()
-    {
-        MainMenuManager.currencyValue --;
     }
     public void BackButton()
     {
