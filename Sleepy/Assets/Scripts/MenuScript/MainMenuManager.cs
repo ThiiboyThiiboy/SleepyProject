@@ -19,7 +19,7 @@ public class MainMenuManager : MonoBehaviour
 
     public void PlayButton()
     {
-        SceneManager.LoadScene("ThibaultScene");
+        SceneManager.LoadScene("Thibault Scene");
     }
 
     public void ShopButton()

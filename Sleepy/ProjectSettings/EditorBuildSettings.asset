@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenuScene.unity
     guid: 6a485818fc9e59a4e894b24ffd3596a2
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Thibault Scene.unity
     guid: c850ee8c3b14cc8459e7e186857cf567
   - enabled: 1
     path: Assets/Scenes/LockerScene.unity
