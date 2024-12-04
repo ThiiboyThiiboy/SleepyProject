@@ -8,6 +8,13 @@ TagManager:
   - Hats
   - Shirts
   - Cameras
+  - UFO
+  - deader
+  - draggable
+  - spawnerRight
+  - spawnerLeft
+  - rightUFO
+  - Alien
   layers:
   - Default
   - TransparentFX
@@ -15,9 +22,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Spawners
+  - UFOs
+  - Aliens
   - 
   - 
   - 
