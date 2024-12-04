@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Hat4
   m_EditorClassIdentifier: 
   mesh: {fileID: 0}
-  price: 50
-  sprite: {fileID: 21300000, guid: 9841225f1472b3843938557670bf30b3, type: 3}
+  price: 200
+  sprite: {fileID: 21300000, guid: f676be58d454edd4f9f3e22bc732ce80, type: 3}
+  buyed: 0
